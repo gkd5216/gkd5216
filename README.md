@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍🎓 Penn State Alumni who studied Data Sciences<br>🔭 Interned at IPG Photonics as a Marketing & IT Analyst Intern<br>🤔 Currently a Customer Success Engineer at IBM after doing a year-long co-op as a Platform Engineer Co-op Intern<br>⚡ Fun fact: Resided in Tokyo, Japan for 4 years
+👩🏻‍🎓 Penn State Alumni who studied Data Sciences<br>🔭 Interned at IPG Photonics as a Marketing & IT Analyst Intern<br>🤔 Currently a Customer Success Engineer at IBM after doing a year-long co-op as a Platform Engineer Co-op Intern<br>⚡ Fun fact: Lived in Tokyo, Japan for 4 years
 
 
 ## 🌐 Socials:
